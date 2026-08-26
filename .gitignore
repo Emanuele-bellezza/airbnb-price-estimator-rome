@@ -11,8 +11,8 @@ Istruction/
 # Draft notebook
 -----Emanuele_Bellezza_K-18722.ipynb
 
-# Transparent chart variants (redundant)
-*_transparent.png
+# chart
+*.png
 
 # Python cache
 __pycache__/
