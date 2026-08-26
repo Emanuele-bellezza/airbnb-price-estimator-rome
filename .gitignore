@@ -1,0 +1,24 @@
+# Large Airbnb data files (too large for GitHub)
+Data/calendar.detail.csv
+Data/listings.detail.csv
+Data/reviews.csv
+Data/reviews.detail.csv
+
+# Course material (not part of the project)
+Lesson/
+Istruction/
+
+# Draft notebook
+-----Emanuele_Bellezza_K-18722.ipynb
+
+# Transparent chart variants (redundant)
+*_transparent.png
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
