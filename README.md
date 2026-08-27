@@ -1,9 +1,16 @@
-# Airbnb Market Radar — Price Estimator Rome
+# Airbnb Market Radar — Price Estimator Rome 🏠💡
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange?logo=scikit-learn)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A 3-stage algorithmic pipeline that estimates the optimal nightly price for an Airbnb listing in Rome by finding the median price among the 50 nearest competitors of the same type.
 
-**Course:** Algorithms of Data Science · University of Warsaw (Erasmus) · 2025/26
-**Author:** Emanuele Bellezza
+**Course:** Algorithms of Data Science · University of Warsaw (Erasmus) · 2025/26  
+**Author:** Emanuele Bellezza | [LinkedIn](https://www.linkedin.com/in/emanuele-bellezza-957704256) | [GitHub](https://github.com/Emanuele-bellezza)
+
+---
 
 ---
 
